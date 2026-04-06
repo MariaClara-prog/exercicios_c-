@@ -2,6 +2,7 @@
 
 Este repositório contém **11 exercícios** práticos desenvolvidos durante o curso de Informática Suporte na **ETEC**, na disciplina de Programação de Computadores. 
 O foco destes scripts é o domínio de operadores aritméticos e lógica de programação em C++.
+Como já possuo graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, estou utilizando estes projetos para refinar minha prática em linguagens de baixo nível e estrutura de dados.
 
 ---
 ## 🚀 Sobre os Exercícios
@@ -15,7 +16,3 @@ Cada arquivo `.cpp` contém o enunciado detalhado e a minha solução para o pro
 * **Linguagem:** C++
 * **Ambiente de Desenvolvimento (IDE):** Dev-C++
 * **Compilador:** TDM-GCC
-
----
-### 🎓 Contexto Acadêmico
-Como já possuo graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, estou utilizando estes projetos para refinar minha prática em linguagens de baixo nível e estrutura de dados.
